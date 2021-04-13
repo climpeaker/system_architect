@@ -56,7 +56,7 @@
  </kbd> 
  </div>
 
-- 作者会实时更新备考资料，如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com** 联系作者。
+- 作者会实时更新备考资料，如有课程资源不明白的地方；或者需要其他资料或电子书查找、EV4视频提取服务，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com** 联系作者。
 
 -  更多教材、视频、论文等资料，可加入QQ交流群①群：746552968<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1137840d8770ac902fd1aeed9b05ea6274c543e3bdd643e00cc676c37eecf21b"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师①群" title="系统架构设计师①群"></a>，②群：1087700294<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=3d7554a3d8c0190803791f91e086045de706f67a492218bb35a16a5d992a5c21"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师②群" title="系统架构设计师②群"></a>，③群：128773281<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=f8Cw8vjJZSGHycsAdGthF9b8DTkGNTjZ&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师③群" title="系统架构设计师③群"></a>。群内会定期举行送实体资料（教辅资料）活动，欢迎各位考友的加入，加群请备注Github。 
 <div align="center">
