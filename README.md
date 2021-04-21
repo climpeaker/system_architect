@@ -73,3 +73,9 @@
  <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/qqfile.png" width=400 />
  </kbd> 
  </div>
+
+-  微信群。
+<div align="center">
+   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/wechat.png" width=400 />
+      </kbd>
+  </div>
